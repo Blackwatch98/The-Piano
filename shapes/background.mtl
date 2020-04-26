@@ -1,0 +1,70 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.11.2019 00:01:37
+
+newmtl Material__48
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Daniel\Desktop\Uczelnia\KCK\Projekt\shapes\maps\opera.jpg
+	map_Kd C:\Users\Daniel\Desktop\Uczelnia\KCK\Projekt\shapes\maps\opera.jpg
+
+newmtl Material__49
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Daniel\Desktop\Uczelnia\KCK\Projekt\shapes\maps\kurtyna.jpg
+	map_Kd C:\Users\Daniel\Desktop\Uczelnia\KCK\Projekt\shapes\maps\kurtyna.jpg
+
+newmtl Material__50
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Daniel\Desktop\Uczelnia\KCK\Projekt\shapes\maps\darkwood.jpg
+	map_Kd C:\Users\Daniel\Desktop\Uczelnia\KCK\Projekt\shapes\maps\darkwood.jpg
+
+newmtl Material__51
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl Material__52
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Daniel\Desktop\Uczelnia\KCK\Projekt\shapes\maps\darkwood.jpg
+	map_Kd C:\Users\Daniel\Desktop\Uczelnia\KCK\Projekt\shapes\maps\darkwood.jpg
